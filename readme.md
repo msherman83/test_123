@@ -1,1 +1,2 @@
-#This is a test of git.
+#git test
+this is a test of git
